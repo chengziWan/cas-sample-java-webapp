@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Wan CC
+Build-Jdk: 1.8.0_151
+Implementation-Title: CAS Example Java Web App
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: iamlabs.unicon.net
+Main-Class: ${start-class}
+
